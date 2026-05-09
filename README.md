@@ -4,6 +4,7 @@
 
 ## 📌 Table of Contents
 
+* [Project Assets](#Project-Assets)
 * [Abstract](#Abstract)
 * [Teaser Figure](#Teaser-Figure)
 * [Introduction](#Introduction)
@@ -18,6 +19,13 @@
 * [References](#References)
 
 ---
+### 📥 Project Assets
+| Asset | Description | Link |
+| :--- | :--- | :--- |
+| **Final Model** | Fine-tuned Xception (.h5) | [Download Here](https://drive.google.com/file/d/1eeJZzTO8PqXbzm-1eQBhE9gerz-X0ZAv/view?usp=sharing) |
+| **Processed Dataset** | RFMD + CLAHE Preprocessed | [Download Here](https://drive.google.com/drive/folders/1p1Bg1_x9_VIZtUPZoIt3s6A3teGD8gS2?usp=sharing) |
+
+
 
 ## Abstract
 
